@@ -49,71 +49,25 @@ hr{
 
 .faqs{
     display: flex;
-
 }
 
-.question{
+.headline {
     display: flex;
     justify-content: space-between;
 }
 
-#q1:hover{
+.question:hover{
     color: #AD28EB;
     cursor: pointer;
 }
 
-#q2:hover{
-    color: #AD28EB;
-    cursor: pointer;
-
-}
-
-#q3:hover{
-    color: #AD28EB;
-    cursor: pointer;
-
-}
-
-#q4:hover{
-    color: #AD28EB;
-    cursor: pointer;
-}
-
-
-#a1{
-    display: block;
-}
-
-#a2{
+.answer{
     display: none;
 }
 
-#a3{
-    display: none;
-}
-
-#a4{
-    display: none;
-}
-
-#q1btn:hover{
+.icon:hover{
     color: #AD28EB;
     cursor: pointer;
 }
 
-#q2btn:hover{
-    color: #AD28EB;
-    cursor: pointer;
 
-}
-
-#q3btn:hover{
-    color: #AD28EB;
-    cursor: pointer;
-
-}
-
-#q4btn:hover{
-    color: #AD28EB;
-    cursor: pointer;
-}
